@@ -1,8 +1,3 @@
 # my
-<img src="https://ibb.co/n0FmsVQ"
-     alt=""
-     style="height: 100px; width:40px;"
-     />
-
-<img src="https://ibb.co/v1Xm9dM"
-     />
+![ss1](https://ibb.co/n0FmsVQ)
+![ss2](https://ibb.co/v1Xm9dM)
